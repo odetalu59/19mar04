@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.dutchangular.org/superjp.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/gilajp.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/pakong86.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/viral88.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/clan4d.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/elang212.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/gori77.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/viral4d.html/sitemap.xml
+Sitemap: https://ftp.dutchangular.org/playground88.html/sitemap.xml
